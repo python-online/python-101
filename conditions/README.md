@@ -10,6 +10,30 @@ In this article, we will explore the basics of Python conditions and if statemen
 
 We will also look at some examples of how they can be used in real-world situations to add logic and control to your programs.
 
+## If
+
+In Python, the if statement is used to execute a block of code based on a specified condition.
+
+The syntax for an if statement is as follows:
+
+```python
+if condition:
+  # code to execute if condition is true
+```
+When the if statement is executed, the interpreter checks the condition specified in the if statement.
+
+If the condition is true, the code block following the if statement is executed.
+
+If the condition is false, the code block is skipped, and the program continues with the next statement after the if block.
+
+Example:
+
+```python
+if x > 0:
+  print("x is positive")
+```
+In this example, if the variable x is greater than 0, the message "x is positive" will be printed.
+
 ## Elif
 
 In Python, elif is a shorthand for "else if" and is used in conjunction with the if statement.
