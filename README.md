@@ -1,2 +1,2 @@
-# Python 101
+# Python 101: Learn Python programming basics
 
