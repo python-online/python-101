@@ -48,8 +48,8 @@ Besides the guides provided, here are some additional resources to further enhan
 
 * [Python Documentation](https://docs.python.org/3/) - The official Python documentation, a comprehensive resource for all things Python.
 * [Python Tutor](http://pythontutor.com/) - An online tool to help visualize Python code execution and debug your programs.
+* [Python Online](http://https://pythononline.net/) - An online IDE where you can execute your Python code online.
 * [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3) - An interactive course to learn Python from scratch.
-* [LeetCode](https://leetcode.com/) - A platform to practice coding problems and improve your algorithmic skills using Python.
 
 ## Contributing
 
